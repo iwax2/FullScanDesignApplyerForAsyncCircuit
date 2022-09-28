@@ -1,0 +1,2 @@
+# FullScanDesignApplyerForAsyncCircuit
+たぶん学生の時に作った、NOCルータをフルスキャン設計しようとして間に合わなかった奴
